@@ -3,4 +3,4 @@ const main = document.querySelector("#main");
 main.remove();
 
 
-const main = document.querySelector("#main");
+const newHeader = document.querySelector("");
