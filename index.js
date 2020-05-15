@@ -1,6 +1,6 @@
 // Write your code here
 const main = document.querySelector("#main");
-main.remove();
+// main.remove();
 
 const h1 = document.createElement("h1");
 h1.innerHTML="<h1 id='victory'>H1</h1>";
